@@ -1,5 +1,4 @@
 import React from 'react'
-import "./ThankYou.css"
 
 function ThankYou() {
   return (

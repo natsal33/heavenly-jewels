@@ -1,5 +1,4 @@
 import React from 'react'
-import "./ShippingPolicy.jsx"
 
 function ShippingPolicy() {
   return (
